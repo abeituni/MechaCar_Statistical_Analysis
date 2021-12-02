@@ -19,6 +19,8 @@ The variance does not exceed 100lbs per square inch in Lot 1 & 2. However, Lot 3
 
 ## T-Tests on Suspension Coils
 Based off the T-Tests we performed, Lot 1 & 2's p-value makes it not low enough to reject the null hypothesis. However, Lot 3's p-value allows us to reject the null hypothesis.
+
+
 ![TTest](https://github.com/abeituni/MechaCar_Statistical_Analysis/blob/main/TTest.png?raw=true)
 
 ![LotTTests](https://github.com/abeituni/MechaCar_Statistical_Analysis/blob/main/Lot123TTest.png?raw=true)
